@@ -29,6 +29,11 @@ cd Image-captioning
 pip install -r requirements.txt
 ```
 
+3. Verify installation (optional):
+```bash
+python test_installation.py
+```
+
 ## Usage
 
 ### Training the Model
